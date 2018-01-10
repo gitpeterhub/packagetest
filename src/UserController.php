@@ -1,6 +1,6 @@
 <?php
 
-namespace gitpeterhub\packgetest;
+namespace gitpeterhub\packagetest;
 
 
 class UserController 

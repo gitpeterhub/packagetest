@@ -1,3 +1,3 @@
 <?php
 
-Route::get('user', "gitpeterhub\packgetest\UserController@index");
+Route::get('user', "gitpeterhub\packagetest\UserController@index");

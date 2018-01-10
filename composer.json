@@ -1,5 +1,5 @@
 {
-    "name": "gitpeterhub/packgetest",
+    "name": "gitpeterhub/packagetest",
     "authors": [
         {
             "name": "gitpeterhub",
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
     "psr-4": {
-      "gitpeterhub\\packgetest\\": "src/"
+      "gitpeterhub\\packagetest\\": "src/"
     }
   }
 

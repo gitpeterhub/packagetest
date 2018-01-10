@@ -1,0 +1,10 @@
+{
+    "name": "peter/user",
+    "authors": [
+        {
+            "name": "gitpeterhub",
+            "email": "ptrjames9@gmail.com"
+        }
+    ],
+    "require": {}
+}

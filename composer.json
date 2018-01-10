@@ -1,5 +1,5 @@
 {
-    "name": "peter/user",
+    "name": "gitpeterhub/packgetest",
     "authors": [
         {
             "name": "gitpeterhub",
@@ -7,11 +7,10 @@
         }
     ],
     "minimum-stability": "dev",
-  	"prefer-stable": true,
     "require": {},
     "autoload": {
     "psr-4": {
-      "packagetest\\user\\": "src/"
+      "gitpeterhub\\packgetest\\": "src/"
     }
   }
 

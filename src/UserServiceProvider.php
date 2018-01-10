@@ -15,8 +15,9 @@ class UserServiceProvider extends ServiceProvider
     {
         //
         include __DIR__.'/Routes.php';
-        $this->app->make('Peter\User\UserController');
+        //$this->app->make('Peter\User\UserController');
         $this->loadViewsFrom(__DIR__.'/views',"User");
+        
         $this->publishes([__DIR__.'/views' => resource_path('views/user-views'),
         ]);
     }
